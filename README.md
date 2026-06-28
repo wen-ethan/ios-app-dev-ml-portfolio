@@ -2,7 +2,7 @@
 
 > 🚧 **Work in Progress** — This repo is actively being built out as part of a summer learning program. Not all projects are complete.
 
-A collection of Swift/SwiftUI iOS apps and a Core ML image classifier, developed while working through Apple's [Develop in Swift curriculum](https://www.apple.com/education/docs/develop-in-swift-explorations.pdf).
+A collection of Swift/SwiftUI iOS apps and a Core ML image classifier, developed as part of the Everyone Can Code Chicago iOS App Development + Machine Learning program — a partnership between Apple and the City of Chicago.
 
 ---
 
