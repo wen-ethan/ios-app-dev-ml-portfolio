@@ -1,0 +1,31 @@
+{
+  "activityEntities" : [
+    "dataSourceCreated",
+    [
+      {
+        "createdDate" : "2026-06-28T17:55:26Z",
+        "event" : "dataSourceCreated",
+        "id" : "E05AF873-40CA-48A5-84A6-30E01C38A680",
+        "subtitle" : "ObjectClassifierTesting",
+        "title" : "Data Source Created"
+      }
+    ]
+  ],
+  "createdDate" : "2026-06-28T17:55:26Z",
+  "dataPathRelativeToProjectURL" : "../ObjectClassifierTesting/",
+  "dataResult" : {
+    "createdDate" : "2026-06-28T17:55:26Z",
+    "dataSourceID" : "A5F581F4-F3AF-447F-93D3-908185D50AD9",
+    "dataURL" : "file:///Users/ethanwen/Documents/GitHub/ios-app-dev-ml-portfolio/ObjectClassifier/ObjectClassifierTesting/"
+  },
+  "dataURL" : "file:///Users/ethanwen/Documents/GitHub/ios-app-dev-ml-portfolio/ObjectClassifier/ObjectClassifierTesting/",
+  "experimentIDs" : [
+    "0E497F26-F469-41B7-954B-4D4F6D39E974"
+  ],
+  "id" : "A5F581F4-F3AF-447F-93D3-908185D50AD9",
+  "modifiedDate" : "2026-06-28T17:55:26Z",
+  "pathType" : 0,
+  "preferredFilename" : "ObjectClassifierTesting",
+  "title" : "ObjectClassifierTesting",
+  "version" : "1.0"
+}

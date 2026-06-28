@@ -1,0 +1,29 @@
+{
+  "activityEntities" : [
+    "projectCreated",
+    [
+      {
+        "createdDate" : "2026-06-28T17:48:04Z",
+        "event" : "projectCreated",
+        "id" : "8DD83DCC-2133-4D5F-9066-768208C8A8C9",
+        "subtitle" : "ObjectClassifier",
+        "title" : "Project Created"
+      }
+    ]
+  ],
+  "authorName" : "Ethan Wen",
+  "createdDate" : "2026-06-28T17:48:04Z",
+  "description" : "",
+  "id" : "AD1D788B-9953-493B-8379-C9683FE155B4",
+  "license" : "",
+  "location" : "",
+  "modifiedDate" : "2026-06-28T17:48:04Z",
+  "projectName" : "ObjectClassifier",
+  "settingsEntity" : {
+    "snapshotOnExtendTraining" : true,
+    "snapshotOnResumeTraining" : false
+  },
+  "taskType" : "imageClassifier",
+  "title" : "Image Classification",
+  "version" : "1.1"
+}
