@@ -98,7 +98,7 @@ A SwiftUI iOS app that uses the trained model for on-device inference.
 - **Language:** Swift
 - **Frameworks:** SwiftUI, MapKit, Core ML, Vision, PhotosUI
 - **ML Tooling:** Create ML (Apple), images.cv (dataset)
-- **Xcode version:** tested on Xcode 16+
+- **Xcode version:** tested on Xcode 26.5
 
 ---
 
