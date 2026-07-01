@@ -7,19 +7,19 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		EF78A8332FF1933D001B0635 /* ObjectHelperAI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ObjectHelperAI.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		EFA747422FF58297002A6B43 /* WeatherForecast.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WeatherForecast.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		EF78A8352FF1933D001B0635 /* ObjectHelperAI */ = {
+		EFA747442FF58297002A6B43 /* WeatherForecast */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = ObjectHelperAI;
+			path = WeatherForecast;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		EF78A8302FF1933D001B0635 /* Frameworks */ = {
+		EFA7473F2FF58297002A6B43 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -29,18 +29,18 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		EF78A82A2FF1933D001B0635 = {
+		EFA747392FF58297002A6B43 = {
 			isa = PBXGroup;
 			children = (
-				EF78A8352FF1933D001B0635 /* ObjectHelperAI */,
-				EF78A8342FF1933D001B0635 /* Products */,
+				EFA747442FF58297002A6B43 /* WeatherForecast */,
+				EFA747432FF58297002A6B43 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		EF78A8342FF1933D001B0635 /* Products */ = {
+		EFA747432FF58297002A6B43 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				EF78A8332FF1933D001B0635 /* ObjectHelperAI.app */,
+				EFA747422FF58297002A6B43 /* WeatherForecast.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -48,64 +48,64 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		EF78A8322FF1933D001B0635 /* ObjectHelperAI */ = {
+		EFA747412FF58297002A6B43 /* WeatherForecast */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = EF78A83E2FF1933E001B0635 /* Build configuration list for PBXNativeTarget "ObjectHelperAI" */;
+			buildConfigurationList = EFA7474D2FF58298002A6B43 /* Build configuration list for PBXNativeTarget "WeatherForecast" */;
 			buildPhases = (
-				EF78A82F2FF1933D001B0635 /* Sources */,
-				EF78A8302FF1933D001B0635 /* Frameworks */,
-				EF78A8312FF1933D001B0635 /* Resources */,
+				EFA7473E2FF58297002A6B43 /* Sources */,
+				EFA7473F2FF58297002A6B43 /* Frameworks */,
+				EFA747402FF58297002A6B43 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				EF78A8352FF1933D001B0635 /* ObjectHelperAI */,
+				EFA747442FF58297002A6B43 /* WeatherForecast */,
 			);
-			name = ObjectHelperAI;
+			name = WeatherForecast;
 			packageProductDependencies = (
 			);
-			productName = ObjectHelperAI;
-			productReference = EF78A8332FF1933D001B0635 /* ObjectHelperAI.app */;
+			productName = WeatherForecast;
+			productReference = EFA747422FF58297002A6B43 /* WeatherForecast.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		EF78A82B2FF1933D001B0635 /* Project object */ = {
+		EFA7473A2FF58297002A6B43 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
-				LastSwiftUpdateCheck = 2650;
-				LastUpgradeCheck = 2650;
+				LastSwiftUpdateCheck = 2660;
+				LastUpgradeCheck = 2660;
 				TargetAttributes = {
-					EF78A8322FF1933D001B0635 = {
-						CreatedOnToolsVersion = 26.5;
+					EFA747412FF58297002A6B43 = {
+						CreatedOnToolsVersion = 26.6;
 					};
 				};
 			};
-			buildConfigurationList = EF78A82E2FF1933D001B0635 /* Build configuration list for PBXProject "ObjectHelperAI" */;
+			buildConfigurationList = EFA7473D2FF58297002A6B43 /* Build configuration list for PBXProject "WeatherForecast" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
 			);
-			mainGroup = EF78A82A2FF1933D001B0635;
+			mainGroup = EFA747392FF58297002A6B43;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = EF78A8342FF1933D001B0635 /* Products */;
+			productRefGroup = EFA747432FF58297002A6B43 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				EF78A8322FF1933D001B0635 /* ObjectHelperAI */,
+				EFA747412FF58297002A6B43 /* WeatherForecast */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		EF78A8312FF1933D001B0635 /* Resources */ = {
+		EFA747402FF58297002A6B43 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -115,7 +115,7 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		EF78A82F2FF1933D001B0635 /* Sources */ = {
+		EFA7473E2FF58297002A6B43 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -125,7 +125,7 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		EF78A83C2FF1933E001B0635 /* Debug */ = {
+		EFA7474B2FF58298002A6B43 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -188,7 +188,7 @@
 			};
 			name = Debug;
 		};
-		EF78A83D2FF1933E001B0635 /* Release */ = {
+		EFA7474C2FF58298002A6B43 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -244,14 +244,13 @@
 			};
 			name = Release;
 		};
-		EF78A83F2FF1933E001B0635 /* Debug */ = {
+		EFA7474E2FF58298002A6B43 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = TQ4LF5RV5S;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -264,7 +263,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = Demo.ObjectHelperAI;
+				PRODUCT_BUNDLE_IDENTIFIER = Demo.WeatherForecast;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRING_CATALOG_GENERATE_SYMBOLS = YES;
 				SWIFT_APPROACHABLE_CONCURRENCY = YES;
@@ -276,14 +275,13 @@
 			};
 			name = Debug;
 		};
-		EF78A8402FF1933E001B0635 /* Release */ = {
+		EFA7474F2FF58298002A6B43 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = TQ4LF5RV5S;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -296,7 +294,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = Demo.ObjectHelperAI;
+				PRODUCT_BUNDLE_IDENTIFIER = Demo.WeatherForecast;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRING_CATALOG_GENERATE_SYMBOLS = YES;
 				SWIFT_APPROACHABLE_CONCURRENCY = YES;
@@ -311,25 +309,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		EF78A82E2FF1933D001B0635 /* Build configuration list for PBXProject "ObjectHelperAI" */ = {
+		EFA7473D2FF58297002A6B43 /* Build configuration list for PBXProject "WeatherForecast" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				EF78A83C2FF1933E001B0635 /* Debug */,
-				EF78A83D2FF1933E001B0635 /* Release */,
+				EFA7474B2FF58298002A6B43 /* Debug */,
+				EFA7474C2FF58298002A6B43 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		EF78A83E2FF1933E001B0635 /* Build configuration list for PBXNativeTarget "ObjectHelperAI" */ = {
+		EFA7474D2FF58298002A6B43 /* Build configuration list for PBXNativeTarget "WeatherForecast" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				EF78A83F2FF1933E001B0635 /* Debug */,
-				EF78A8402FF1933E001B0635 /* Release */,
+				EFA7474E2FF58298002A6B43 /* Debug */,
+				EFA7474F2FF58298002A6B43 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = EF78A82B2FF1933D001B0635 /* Project object */;
+	rootObject = EFA7473A2FF58297002A6B43 /* Project object */;
 }
